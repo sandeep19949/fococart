@@ -18,7 +18,7 @@ d>com.gamutgurus</groupId>
 		<version>3.1.0</version>
 	
 		
-</dependencies>
+</dccesrtiond>
 
 <build>
 	<finalName>gamutkart</finalName>
